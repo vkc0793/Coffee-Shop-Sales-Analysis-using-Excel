@@ -18,3 +18,4 @@ The Objective of the Coffee Shop Sales Analysis Project is to analyse the retail
 7) Orders on weekdays
 
 # Dashboard:
+dashboard.png
