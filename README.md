@@ -19,3 +19,5 @@ The Objective of the Coffee Shop Sales Analysis Project is to analyse the retail
 
 # Dashboard:
 
+![dashboard](https://github.com/vkc0793/Coffee-Shop-Sales-Analysis-using-Excel/assets/136575552/26a00f47-2d4e-4457-985b-11cc6a8030df)
+
